@@ -1,3 +1,7 @@
+![sample_1](hhttps://github.com/SyntaxVoid/HeartstopperTimer/blob/main/samples/sample1.png?raw=True)
+![sample_2](hhttps://github.com/SyntaxVoid/HeartstopperTimer/blob/main/samples/sample2.gif?raw=True)
+
+
 ## [Cloning HeartstopperTimer to your local directory][100]
 Navigate to where you want to clone HeartstopperTimer. Note that cloning *will* create a "HeartstopperTimer" folder itself.
 
