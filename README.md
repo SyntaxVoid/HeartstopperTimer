@@ -62,7 +62,7 @@ operable program or batch file.</td>
     </tr>
     <tr>
       <td>Anything else?</td>
-      <td><a href="https://github.com/SyntaxVoid/MSBot/issues/new">Submit an issue here</a>, providing as much detail as possible. If you can, try to include the relevent log file located in MSBot/logs.</td>
+      <td><a href="https://github.com/SyntaxVoid/HeartstopperTimers/issues/new">Submit an issue here</a>, providing as much detail as possible. </td>
     </tr>
   </tbody>
 </table>
@@ -73,8 +73,8 @@ operable program or batch file.</td>
 
 [1]: https://github.com/SyntaxVoid/HeartstopperTimer/issues/new
 
-[100]: https://github.com/SyntaxVoid/MSBot#cloning-msbot-to-your-local-directory
-[101]: https://github.com/SyntaxVoid/MSBot#using-the-bot
-[102]: https://github.com/SyntaxVoid/MSBot#troubleshooting
-[103]: https://github.com/SyntaxVoid/MSBot#contributing-your-own-code
-[999]: https://github.com/SyntaxVoid/MSBot#building-into-a-exe
+[100]: https://github.com/SyntaxVoid/HeartstopperTimer#cloning-heartstoppertimer-to-your-local-directory
+[101]: https://github.com/SyntaxVoid/HeartstopperTimer#using-the-application
+[102]: https://github.com/SyntaxVoid/HeartstopperTimer#troubleshooting
+[103]: https://github.com/SyntaxVoid/HeartstopperTimer#contributing-your-own-code
+[999]: https://github.com/SyntaxVoid/HeartstopperTimer#building-into-a-exe
