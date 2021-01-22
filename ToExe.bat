@@ -1,0 +1,1 @@
+pyinstaller --clean --onefile HeartstopperTimer.pyw --add-data="heartstopper.ico;." --add-data="heartstopper.png;." --add-data="loop.png;." --add-data="no_loop.png;." --add-data="pin1.png;." --add-data="no_pin1.png;." --add-data="play.png;." --add-data="pause.png;." --add-data="sounds_on.png;." --add-data="sounds_off.png;." --icon=heartstopper.ico
