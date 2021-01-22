@@ -1,6 +1,9 @@
 ![sample_1](https://github.com/SyntaxVoid/HeartstopperTimer/blob/main/samples/sample1.png?raw=True)
 ![sample_2](https://github.com/SyntaxVoid/HeartstopperTimer/blob/main/samples/sample2.gif?raw=True)
 
+## Don't like reading?
+Just go to the [most recent release][104] and download the executable.
+
 
 ## [Cloning HeartstopperTimer to your local directory][100]
 Navigate to where you want to clone HeartstopperTimer. Note that cloning *will* create a "HeartstopperTimer" folder itself.
@@ -81,4 +84,5 @@ operable program or batch file.</td>
 [101]: https://github.com/SyntaxVoid/HeartstopperTimer#using-the-application
 [102]: https://github.com/SyntaxVoid/HeartstopperTimer#troubleshooting
 [103]: https://github.com/SyntaxVoid/HeartstopperTimer#contributing-your-own-code
+[104]: https://github.com/SyntaxVoid/HeartstopperTimer/releases/latest
 [999]: https://github.com/SyntaxVoid/HeartstopperTimer#building-into-a-exe
