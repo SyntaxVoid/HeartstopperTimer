@@ -62,7 +62,7 @@ operable program or batch file.</td>
     </tr>
     <tr>
       <td>Anything else?</td>
-      <td><a href="https://github.com/SyntaxVoid/HeartstopperTimers/issues/new">Submit an issue here</a>, providing as much detail as possible. </td>
+      <td><a href="https://github.com/SyntaxVoid/HeartstopperTimer/issues/new">Submit an issue here</a>, providing as much detail as possible. </td>
     </tr>
   </tbody>
 </table>
